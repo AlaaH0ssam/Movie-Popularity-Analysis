@@ -240,9 +240,11 @@ The dataset is too large to be uploaded directly to GitHub.
 
 Download the dataset from the following link:
 
-[Google Drive Dataset Link]
-  milston 1:  https://drive.google.com/file/d/1paqLfXhTqlmiX4xrAhPBD8Gi246LTv54/view?usp=sharing
-  milston 2:  https://drive.google.com/file/d/1Gw_hhT8aijsWyHzko0ggj-3rUvt5kOTO/view?usp=sharing
+### 📁 Milestone 1 Dataset
+🔗 [Download MS1 Dataset](https://drive.google.com/file/d/1paqLfXhTqlmiX4xrAhPBD8Gi246LTv54/view?usp=sharing)
+
+### 📁 Milestone 2 Dataset
+🔗 [Download MS2 Dataset](https://drive.google.com/file/d/1Gw_hhT8aijsWyHzko0ggj-3rUvt5kOTO/view?usp=sharing)
 
 ---
 # 🚀 Running The Project
